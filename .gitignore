@@ -1,0 +1,12 @@
+.vs
+Debug
+x64
+OpenCV.sdf
+OpenCV.sln
+OpenCV/Debug
+OpenCV/OpenCV.vcxproj
+OpenCV/OpenCV.vcxproj.filters
+OpenCV/OpenCV.vcxproj.user
+OpenCV/x64
+OpenCV.opensdf
+res/*
